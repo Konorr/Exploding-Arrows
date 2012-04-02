@@ -1,0 +1,8 @@
+name: ExplodingArrows
+version: 1.0
+main: me.konor.explodingarrows.ExplodingArrows
+commands:
+      ea:
+        description: Toggles the Exploding Arrows feature.
+        useage: /<command>
+      
